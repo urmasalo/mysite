@@ -1,0 +1,110 @@
+
+body{  
+    margin: 0%;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.btn{
+    background-color: lightseagreen ;
+    color: whitesmoke;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px 10px 10px 10px;
+    text-shadow: rgb(210, 209, 243) 1px 0 10px;
+}
+.btn:hover{
+    background-color: mediumblue;
+}
+.bottom-container{
+    margin-top: 50px;
+    background-color: lightseagreen;
+    padding-top: 2%;
+  
+}
+.contact-me{
+    padding: 20px;
+}
+.copyright{
+    margin: 12px auto 0 auto;
+    font-size: 1remE;
+    color: #EAF6F6;
+}
+.footer-link{
+    color: #0d686b;
+    text-decoration: none;
+}
+h1{
+    color:lightseagreen ;
+    font-size: 6rem;
+    margin: 180px auto 0 auto;
+    display: inline-block;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    color: lightseagreen;
+}
+hr{
+    color: #646e72;
+    border-style: dotted none none none;
+    border-width: 6px;
+    width: 6%;
+}
+.middleCloud{
+    position: absolute;
+    left: 10%;
+}
+.middle-container{
+    padding-top: 100px;
+}
+.profile{
+    text-align: center;
+}
+.profileP{
+    width: 33%;
+    margin-left: 33%;
+}
+p{
+    line-height: 2;
+}
+.profilePicture {
+    border-radius:50%;
+    border: solid;
+    margin-top: 4.5rem;
+}
+.socialMediaContainer{
+    background-color: lightseagreen;
+    padding-top: 2%;
+}
+.skills{
+    text-align: left;
+    margin: 0 20% 0 20%;
+}
+.skillImage{
+    width: 180px;
+}
+.subtitle{
+    font-weight: normal;
+    margin: 0 auto 0 auto;
+}
+.topCloud{
+    position: absolute;
+    top: 50px;
+    right: 15%;
+}
+.top-container{
+    background-color: rgb(207, 228, 235);
+}
+.underline{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
